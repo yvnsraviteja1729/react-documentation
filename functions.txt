@@ -1,0 +1,3 @@
+React.createReactElement
+Suspense
+React.StrictMode
